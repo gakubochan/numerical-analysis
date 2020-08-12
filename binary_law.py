@@ -1,3 +1,4 @@
+#二分法
 import math
 import numpy as np
 def f(x):
